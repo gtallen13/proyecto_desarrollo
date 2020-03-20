@@ -67,16 +67,6 @@ Automatizacion
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="M:WindowsApplication1.Form1.ValidarAdministrativos">
- <summary>
- Aqui se validan todos los tramites academicos
- </summary>
-</member>
-<member name="M:WindowsApplication1.Form1.ValidarAcademicos">
- <summary>
- Aqui se validan los tramites Academicos
- </summary>
-</member>
 <member name="M:WindowsApplication1.Form1.IsValidEmailFormat(System.String)">
  <summary>
  Revisa que una dirreccion de correo sea valida
